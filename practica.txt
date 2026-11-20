@@ -1,0 +1,7 @@
+Mi primera practica con Git y GitHub.
+
+Nombre:
+Curso:
+Fecha:
+
+Estoy aprendiendo a usar control de versiones.
